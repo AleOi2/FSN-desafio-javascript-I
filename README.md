@@ -78,6 +78,14 @@
 
 
 
+First:
+npm install --save-dev @babel/core @babel/preset-env
+create .babelrc file and put (on root directory)
+{ 
+    "presets": ["@babel/preset-env"] 
+}
+
+
     
 
     

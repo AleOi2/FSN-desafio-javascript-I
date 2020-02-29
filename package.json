@@ -1,0 +1,25 @@
+{
+  "name": "fsn-desafio-javascript-i",
+  "version": "1.0.0",
+  "description": "- Tema: Sistema escolar  - Tecnologia: Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleOi2/FSN-desafio-javascript-I.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleOi2/FSN-desafio-javascript-I/issues"
+  },
+  "homepage": "https://github.com/AleOi2/FSN-desafio-javascript-I#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4"
+  }
+}
